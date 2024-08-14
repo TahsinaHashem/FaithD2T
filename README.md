@@ -1,1 +1,3 @@
-# Data and Code for Generating Faithful and Salient Text from Multimodal Data (INLG 2024) paper.
+# Dataset and Code for Generating Faithful and Salient Text from Multimodal Data (INLG 2024) paper.
+
+Please download the real-estate house dataset from here.
