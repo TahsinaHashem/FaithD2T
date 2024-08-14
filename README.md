@@ -1,7 +1,7 @@
 # Dataset and Code for Generating Faithful and Salient Text from Multimodal Data (INLG 2024) paper.
 
 ## Dataset Download Link
-Please download the Real-estate House dataset from [here](https://drive.google.com/file/d/16h4EQlgs-x4hypu4vAq2tuL0EzvrCecO/view?usp=drive_link).
+Please download the Real-estate House Dataset from [here](https://drive.google.com/file/d/16h4EQlgs-x4hypu4vAq2tuL0EzvrCecO/view?usp=drive_link).
 
 ## Training & Evaluation
 The scripts for training and evaluation are in the main directory.
